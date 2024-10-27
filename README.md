@@ -133,8 +133,8 @@
 
 | [백도현<br>(BE Leader&FE)](https://github.com/dh1010a) | [공희진](https://github.com/) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/fe5cdfa3-8556-42c5-a851-a4e830c13137" width="140px" alt="백도현"/> | <img src="" width="120px" alt="공희진"/> |
-| - GCP 배포 환경 구성<br>- CI/CD 자동화 파이프라인 구축<br>- 스프링 시큐리티와 JWT를 이용한 인증/인가<br>- OAuth2를 이용한 간편로그인<br>- 실시간 통신을 위한 WebSocket, STOMP<br>- Redis기반 분산락으로 동시성 제어<br>- Bucket에 이미지 업로드 기능 구현<br>- 함께 결제 및 주문 로직 구현 | |
+| <img src="https://github.com/user-attachments/assets/fe5cdfa3-8556-42c5-a851-a4e830c13137" width="140px" alt="백도현"/> | <img src="https://github.com/user-attachments/assets/c1571074-5029-40bd-b619-36e0ea3e935d" width="140px" alt="공희진"/> |
+| - GCP 배포 환경 구성<br>- CI/CD 자동화 파이프라인 구축<br>- 스프링 시큐리티와 JWT를 이용한 인증/인가<br>- OAuth2를 이용한 간편로그인<br>- 실시간 통신을 위한 WebSocket, STOMP<br>- Redis기반 분산락으로 동시성 제어<br>- Bucket에 이미지 업로드 기능 구현<br>- 함께 결제 및 주문 로직 구현 | - 전자 명함 QR스캔으로 추가하는 기능<br>- 가계부 CRUD 기능<br>- 카드 및 계좌 거래내역 연동<br>|
 
 
 ### 📓 Document
