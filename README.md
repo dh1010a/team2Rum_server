@@ -16,7 +16,8 @@
 |<img src="https://github.com/user-attachments/assets/dabff499-dc06-4f92-a368-863ed3e072b1" alt="Description of the image" width="200">|<img src="https://github.com/user-attachments/assets/f3eb3787-f095-4e93-9a7a-f8581e49fc4f" alt="Description of the image" width="200">|<img src="https://github.com/user-attachments/assets/78fb67e3-66e9-4fc3-b031-17d582cd3b3a" alt="Description of the image" width="200">|<img src="https://github.com/user-attachments/assets/96112bdb-c2cf-4cb6-924b-d2b26aa118cc" alt="Description of the image" width="200">|
 | 가맹점의 QR을 스캔하여 <br>결제 정보를 불러옵니다 | 참여자들은 실시간으로 각자 <br>결제할 메뉴를 선택합니다 | 메뉴 선택 없이도, 금액을 기준<br>으로 각자 계산할수 있습니다 | 룰렛 기능으로 '몰아주기' 등의<br>재미 요소를 제공합니다 |
 
-🔗 **시연 영상** : https://drive.google.com/file/d/1Br3GR_JiiIofnnhyXm2W2TGFCpHVeu6j/view?usp=drive_link
+🔗 **시연 영상** : https://drive.google.com/file/d/1Br3GR_JiiIofnnhyXm2W2TGFCpHVeu6j/view?usp=sharing
+🔗 **룰렛 + 여러 화면시연 영상** : https://drive.google.com/file/d/1Rx9DnkM2P-gmLZTYk7m3hcmML-wGEpOW/view?usp=sharing
 
 ### 📷 세부 기능
 
