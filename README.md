@@ -144,6 +144,7 @@
 ### 📓 Document
 - [모두의 결제 PDF](https://drive.google.com/file/d/1I8CFJITwUC97vcTjJhukSbtwEx0NVq86/view?usp=drive_link)
 - [Socket과 STOMP 구현기](https://100cblog.tistory.com/63)
+- [동시성 제어](https://100cblog.tistory.com/64)
 
 
 ### 📄 Commit  Message
